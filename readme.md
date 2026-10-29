@@ -12,14 +12,8 @@ Banco de dados relacional de um hospital, feito em MySQL. Ele guarda pacientes, 
 
 ## Diagrama
 
-```mermaid
-erDiagram
-    PACIENTES ||--o{ CONSULTAS : faz
-    MEDICOS ||--o{ CONSULTAS : atende
-    CONSULTAS ||--o{ PRESCRICOES : gera
-    PACIENTES ||--o{ INTERNACOES : tem
-    QUARTOS ||--o{ INTERNACOES : recebe
-```
+<img width="1395" height="628" alt="image" src="https://github.com/user-attachments/assets/63ac1b80-e8c6-480c-8625-69875bccca57" />
+
 
 ## Tabelas
 
