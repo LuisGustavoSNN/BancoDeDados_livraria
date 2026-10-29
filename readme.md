@@ -15,7 +15,7 @@ Cada tabela tem seu próprio dump (gerado com `mysqldump`, em 29/10/2026):
 | `livraria_pedido.sql` | `pedido` | 8 |
 | `livraria_item_pedido.sql` | `item_pedido` | 13 |
 
-## Modelo de dados
+## Diagrama
 
 <img width="1395" height="628" alt="image" src="https://github.com/user-attachments/assets/9d62ada1-153d-4d6b-90b5-4623eebe7bfb" />
 
